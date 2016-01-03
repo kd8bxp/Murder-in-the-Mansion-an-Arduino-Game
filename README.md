@@ -33,7 +33,8 @@ Play this game in the serial monitor, or a serial terminal.
 ## Credits
 
 Jim Cole (1981) orignal Pocket-BASIC version
-By LeRoy Miller (2016) 
+
+Arduino version By LeRoy Miller (2016) 
 
 The serial read example is based/from Evil Chemist 01/04/15 - https://codebender.cc/sketch:72379#Serial_Reading.ino
 
